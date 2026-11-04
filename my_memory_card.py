@@ -1,7 +1,7 @@
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QApplication, QWidget, QHBoxLayout, QVBoxLayout, QGroupBox, QRadioButton, QPushButton, QLabel, QButtonGroup
 from random import *
-
+kdkfdfkdfksdjfnofoe = 0
 app = QApplication([])
 main_win = QWidget()
 main_win.setWindowTitle('Memory Card')
